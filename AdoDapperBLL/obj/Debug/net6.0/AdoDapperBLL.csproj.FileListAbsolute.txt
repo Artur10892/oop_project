@@ -1,0 +1,60 @@
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperBLL/bin/Debug/net6.0/AdoDapperBLL.deps.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperBLL/bin/Debug/net6.0/AdoDapperBLL.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperBLL/bin/Debug/net6.0/AdoDapperBLL.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperBLL/bin/Debug/net6.0/AdoDapperDAL.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperBLL/bin/Debug/net6.0/AdoDapperDAL.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.AssemblyInfo.cs
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.csproj.CopyComplete
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperBLL/obj/Debug/net6.0/refint/AdoDapperBLL.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperBLL/obj/Debug/net6.0/ref/AdoDapperBLL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperBLL/bin/Debug/net6.0/AdoDapperBLL.deps.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperBLL/bin/Debug/net6.0/AdoDapperBLL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperBLL/bin/Debug/net6.0/AdoDapperBLL.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperBLL/bin/Debug/net6.0/AdoDapperDAL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperBLL/bin/Debug/net6.0/AdoDapperDAL.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.AssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.csproj.CopyComplete
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperBLL/obj/Debug/net6.0/refint/AdoDapperBLL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperBLL/obj/Debug/net6.0/ref/AdoDapperBLL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperBLL/bin/Debug/net6.0/AdoDapperBLL.deps.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperBLL/bin/Debug/net6.0/AdoDapperBLL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperBLL/bin/Debug/net6.0/AdoDapperBLL.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperBLL/bin/Debug/net6.0/AdoDapperDAL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperBLL/bin/Debug/net6.0/AdoDapperDAL.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.AssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.csproj.CopyComplete
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperBLL/obj/Debug/net6.0/refint/AdoDapperBLL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperBLL/obj/Debug/net6.0/AdoDapperBLL.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperBLL/obj/Debug/net6.0/ref/AdoDapperBLL.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperBLL\bin\Debug\net6.0\AdoDapperBLL.deps.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperBLL\bin\Debug\net6.0\AdoDapperBLL.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperBLL\bin\Debug\net6.0\AdoDapperBLL.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperBLL\bin\Debug\net6.0\AdoDapperDAL.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperBLL\bin\Debug\net6.0\AdoDapperDAL.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperBLL\obj\Debug\net6.0\AdoDapperBLL.csproj.AssemblyReference.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperBLL\obj\Debug\net6.0\AdoDapperBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperBLL\obj\Debug\net6.0\AdoDapperBLL.AssemblyInfoInputs.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperBLL\obj\Debug\net6.0\AdoDapperBLL.AssemblyInfo.cs
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperBLL\obj\Debug\net6.0\AdoDapperBLL.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperBLL\obj\Debug\net6.0\AdoDapperBLL.csproj.CopyComplete
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperBLL\obj\Debug\net6.0\AdoDapperBLL.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperBLL\obj\Debug\net6.0\refint\AdoDapperBLL.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperBLL\obj\Debug\net6.0\AdoDapperBLL.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperBLL\obj\Debug\net6.0\ref\AdoDapperBLL.dll

@@ -1,0 +1,48 @@
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Domain/bin/Debug/net6.0/CleanArch_Domain.deps.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Domain/bin/Debug/net6.0/CleanArch_Domain.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Domain/bin/Debug/net6.0/CleanArch_Domain.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.AssemblyInfo.cs
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Domain/obj/Debug/net6.0/refint/CleanArch_Domain.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Domain/obj/Debug/net6.0/ref/CleanArch_Domain.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Domain/bin/Debug/net6.0/CleanArch_Domain.deps.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Domain/bin/Debug/net6.0/CleanArch_Domain.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Domain/bin/Debug/net6.0/CleanArch_Domain.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.AssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Domain/obj/Debug/net6.0/refint/CleanArch_Domain.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Domain/obj/Debug/net6.0/ref/CleanArch_Domain.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Domain/bin/Debug/net6.0/CleanArch_Domain.deps.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Domain/bin/Debug/net6.0/CleanArch_Domain.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Domain/bin/Debug/net6.0/CleanArch_Domain.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.AssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Domain/obj/Debug/net6.0/refint/CleanArch_Domain.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Domain/obj/Debug/net6.0/CleanArch_Domain.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Domain/obj/Debug/net6.0/ref/CleanArch_Domain.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Domain\bin\Debug\net6.0\CleanArch_Domain.deps.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Domain\bin\Debug\net6.0\CleanArch_Domain.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Domain\bin\Debug\net6.0\CleanArch_Domain.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Domain\obj\Debug\net6.0\CleanArch_Domain.csproj.AssemblyReference.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Domain\obj\Debug\net6.0\CleanArch_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Domain\obj\Debug\net6.0\CleanArch_Domain.AssemblyInfoInputs.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Domain\obj\Debug\net6.0\CleanArch_Domain.AssemblyInfo.cs
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Domain\obj\Debug\net6.0\CleanArch_Domain.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Domain\obj\Debug\net6.0\CleanArch_Domain.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Domain\obj\Debug\net6.0\refint\CleanArch_Domain.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Domain\obj\Debug\net6.0\CleanArch_Domain.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Domain\obj\Debug\net6.0\ref\CleanArch_Domain.dll

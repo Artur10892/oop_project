@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "aT9N7usSJiBwCHRZF0fjD6+wzvuylBzbwA+jjzSHJvI=",
+  "Source": "CleanArchAPI",
+  "BasePath": "_content/CleanArchAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CleanArchAPI\\wwwroot",
+      "Source": "CleanArchAPI",
+      "ContentRoot": "C:\\Users\\TestUser\\Desktop\\Guzul OOP project old\\.NET Projects\\CleanArchAPI\\wwwroot\\",
+      "BasePath": "_content/CleanArchAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\TestUser\\Desktop\\Guzul OOP project old\\.NET Projects\\CleanArchAPI\\wwwroot\\Public\\Images\\Products\\202206291547424519.jpeg",
+      "SourceId": "CleanArchAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TestUser\\Desktop\\Guzul OOP project old\\.NET Projects\\CleanArchAPI\\wwwroot\\",
+      "BasePath": "_content/CleanArchAPI",
+      "RelativePath": "Public/Images/Products/202206291547424519.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Public\\Images\\Products\\202206291547424519.jpeg"
+    }
+  ]
+}

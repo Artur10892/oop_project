@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+option csharp_namespace = "CleanArch_Application.Protos";
+
+service Products {
+  rpc GetAll (GetAllProductsRequest) returns (ProductsResponse);
+  rpc GetById (GetProductByIdRequest) returns (ProductResponse);
+}
+
+message GetAllProductsRequest { }
+
+message GetProductByIdRequest {
+  int32 id = 1;
+}
+
+message ProductResponse {
+  int32 Id = 1;
+  int32 SupplierId = 2;
+  string SupplierCompanyName = 3;
+  int32 CategoryId = 4;
+  string CategoryName = 5;
+  string Image = 6;
+  string Name = 7;
+  double PurchasePrice = 8;
+  double SellPrice = 9;
+  string Description = 10;
+}
+
+message ProductsResponse {
+  repeated ProductResponse data = 1;
+}

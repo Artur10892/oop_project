@@ -1,0 +1,232 @@
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/appsettings.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperAPI
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperAPI.deps.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperAPI.runtimeconfig.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperAPI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperAPI.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AutoMapper.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Dapper.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Dapper.Contrib.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/FluentValidation.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/FluentValidation.AspNetCore.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperBLL.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperDAL.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperBLL.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperDAL.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.AssemblyInfo.cs
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/obj/Debug/net6.0/scopedcss/bundle/AdoDapperAPI.styles.css
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.csproj.CopyComplete
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/obj/Debug/net6.0/refint/AdoDapperAPI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.genruntimeconfig.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperAPI/obj/Debug/net6.0/ref/AdoDapperAPI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/appsettings.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperAPI
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperAPI.deps.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperAPI.runtimeconfig.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperAPI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperAPI.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AutoMapper.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Dapper.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Dapper.Contrib.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/FluentValidation.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/FluentValidation.AspNetCore.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperBLL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperDAL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperBLL.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/bin/Debug/net6.0/AdoDapperDAL.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.AssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/obj/Debug/net6.0/scopedcss/bundle/AdoDapperAPI.styles.css
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.csproj.CopyComplete
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/obj/Debug/net6.0/refint/AdoDapperAPI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.genruntimeconfig.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperAPI/obj/Debug/net6.0/ref/AdoDapperAPI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/appsettings.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/AdoDapperAPI
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/AdoDapperAPI.deps.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/AdoDapperAPI.runtimeconfig.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/AdoDapperAPI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/AdoDapperAPI.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/AutoMapper.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Dapper.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Dapper.Contrib.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/FluentValidation.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/FluentValidation.AspNetCore.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/AdoDapperBLL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/AdoDapperDAL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/AdoDapperBLL.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/AdoDapperDAL.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.AssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/obj/Debug/net6.0/scopedcss/bundle/AdoDapperAPI.styles.css
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.csproj.CopyComplete
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/obj/Debug/net6.0/refint/AdoDapperAPI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/obj/Debug/net6.0/AdoDapperAPI.genruntimeconfig.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/obj/Debug/net6.0/ref/AdoDapperAPI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Grpc.Core.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Grpc.Core.Api.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Grpc.Net.Client.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Grpc.Net.ClientFactory.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Grpc.Net.Common.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/runtimes/linux-arm64/native/libgrpc_csharp_ext.arm64.so
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/runtimes/linux-x64/native/libgrpc_csharp_ext.x64.so
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/runtimes/osx-x64/native/libgrpc_csharp_ext.x64.dylib
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/runtimes/win-x64/native/grpc_csharp_ext.x64.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/runtimes/win-x86/native/grpc_csharp_ext.x86.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Grpc.AspNetCore.Server.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Grpc.AspNetCore.Server.Reflection.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperAPI/bin/Debug/net6.0/Grpc.Reflection.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\AdoDapperAPI.exe
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\AdoDapperAPI.deps.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\AdoDapperAPI.runtimeconfig.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\AdoDapperAPI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\AdoDapperAPI.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Dapper.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Grpc.AspNetCore.Server.Reflection.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Grpc.Core.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Grpc.Reflection.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\AdoDapperBLL.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\AdoDapperDAL.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\AdoDapperBLL.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\bin\Debug\net6.0\AdoDapperDAL.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\obj\Debug\net6.0\AdoDapperAPI.csproj.AssemblyReference.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\obj\Debug\net6.0\AdoDapperAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\obj\Debug\net6.0\AdoDapperAPI.AssemblyInfoInputs.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\obj\Debug\net6.0\AdoDapperAPI.AssemblyInfo.cs
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\obj\Debug\net6.0\AdoDapperAPI.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\obj\Debug\net6.0\AdoDapperAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\obj\Debug\net6.0\AdoDapperAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\obj\Debug\net6.0\scopedcss\bundle\AdoDapperAPI.styles.css
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\obj\Debug\net6.0\AdoDapperAPI.csproj.CopyComplete
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\obj\Debug\net6.0\AdoDapperAPI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\obj\Debug\net6.0\refint\AdoDapperAPI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\obj\Debug\net6.0\AdoDapperAPI.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\obj\Debug\net6.0\AdoDapperAPI.genruntimeconfig.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperAPI\obj\Debug\net6.0\ref\AdoDapperAPI.dll

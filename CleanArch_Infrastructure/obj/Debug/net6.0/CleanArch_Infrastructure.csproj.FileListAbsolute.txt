@@ -1,0 +1,64 @@
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Infrastructure/bin/Debug/net6.0/CleanArch_Infrastructure.deps.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Infrastructure/bin/Debug/net6.0/CleanArch_Infrastructure.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Infrastructure/bin/Debug/net6.0/CleanArch_Infrastructure.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Infrastructure/bin/Debug/net6.0/CleanArch_Domain.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Infrastructure/bin/Debug/net6.0/CleanArch_Domain.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.AssemblyInfo.cs
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.csproj.CopyComplete
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/refint/CleanArch_Infrastructure.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/ref/CleanArch_Infrastructure.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Infrastructure/bin/Debug/net6.0/CleanArch_Infrastructure.deps.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Infrastructure/bin/Debug/net6.0/CleanArch_Infrastructure.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Infrastructure/bin/Debug/net6.0/CleanArch_Infrastructure.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Infrastructure/bin/Debug/net6.0/CleanArch_Domain.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Infrastructure/bin/Debug/net6.0/CleanArch_Domain.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.AssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.csproj.CopyComplete
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/refint/CleanArch_Infrastructure.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArch_Infrastructure/obj/Debug/net6.0/ref/CleanArch_Infrastructure.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Infrastructure/bin/Debug/net6.0/CleanArch_Infrastructure.deps.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Infrastructure/bin/Debug/net6.0/CleanArch_Infrastructure.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Infrastructure/bin/Debug/net6.0/CleanArch_Infrastructure.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Infrastructure/bin/Debug/net6.0/CleanArch_Domain.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Infrastructure/bin/Debug/net6.0/CleanArch_Domain.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.AssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.csproj.CopyComplete
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Infrastructure/obj/Debug/net6.0/refint/CleanArch_Infrastructure.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Infrastructure/obj/Debug/net6.0/CleanArch_Infrastructure.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Infrastructure/obj/Debug/net6.0/ref/CleanArch_Infrastructure.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Infrastructure/bin/Debug/net6.0/CleanArch_Application.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArch_Infrastructure/bin/Debug/net6.0/CleanArch_Application.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Infrastructure\bin\Debug\net6.0\CleanArch_Infrastructure.deps.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Infrastructure\bin\Debug\net6.0\CleanArch_Infrastructure.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Infrastructure\bin\Debug\net6.0\CleanArch_Infrastructure.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Infrastructure\bin\Debug\net6.0\CleanArch_Application.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Infrastructure\bin\Debug\net6.0\CleanArch_Domain.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Infrastructure\bin\Debug\net6.0\CleanArch_Application.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Infrastructure\bin\Debug\net6.0\CleanArch_Domain.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Infrastructure\obj\Debug\net6.0\CleanArch_Infrastructure.csproj.AssemblyReference.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Infrastructure\obj\Debug\net6.0\CleanArch_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Infrastructure\obj\Debug\net6.0\CleanArch_Infrastructure.AssemblyInfoInputs.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Infrastructure\obj\Debug\net6.0\CleanArch_Infrastructure.AssemblyInfo.cs
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Infrastructure\obj\Debug\net6.0\CleanArch_Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Infrastructure\obj\Debug\net6.0\CleanArch_Infrastructure.csproj.CopyComplete
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Infrastructure\obj\Debug\net6.0\CleanArch_Infrastructure.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Infrastructure\obj\Debug\net6.0\refint\CleanArch_Infrastructure.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Infrastructure\obj\Debug\net6.0\CleanArch_Infrastructure.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArch_Infrastructure\obj\Debug\net6.0\ref\CleanArch_Infrastructure.dll

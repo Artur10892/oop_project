@@ -1,0 +1,296 @@
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.AssemblyInfo.cs
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/appsettings.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI.deps.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI.runtimeconfig.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/AutoMapper.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/MediatR.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/MediatR.Contracts.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArch_Application.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArch_Domain.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArch_Infrastructure.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArch_Application.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArch_Domain.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArch_Infrastructure.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/obj/Debug/net6.0/scopedcss/bundle/CleanArchAPI.styles.css
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.csproj.CopyComplete
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/obj/Debug/net6.0/refint/CleanArchAPI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.genruntimeconfig.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/obj/Debug/net6.0/ref/CleanArchAPI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI.staticwebassets.runtime.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/appsettings.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI.staticwebassets.runtime.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI.deps.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI.runtimeconfig.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/AutoMapper.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/MediatR.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/MediatR.Contracts.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArch_Application.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArch_Domain.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArch_Infrastructure.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArch_Application.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArch_Domain.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/bin/Debug/net6.0/CleanArch_Infrastructure.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.AssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/obj/Debug/net6.0/scopedcss/bundle/CleanArchAPI.styles.css
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.csproj.CopyComplete
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/obj/Debug/net6.0/refint/CleanArchAPI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.genruntimeconfig.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/CleanArchAPI/obj/Debug/net6.0/ref/CleanArchAPI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/appsettings.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI.staticwebassets.runtime.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI.deps.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI.runtimeconfig.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/CleanArchAPI.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/AutoMapper.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Grpc.AspNetCore.Server.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Grpc.AspNetCore.Server.Reflection.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Grpc.Core.Api.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Grpc.Net.Common.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Grpc.Reflection.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/MediatR.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/MediatR.Contracts.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/CleanArch_Application.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/CleanArch_Domain.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/CleanArch_Infrastructure.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/CleanArch_Application.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/CleanArch_Domain.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/CleanArch_Infrastructure.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.AssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/obj/Debug/net6.0/scopedcss/bundle/CleanArchAPI.styles.css
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.csproj.CopyComplete
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/obj/Debug/net6.0/refint/CleanArchAPI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/obj/Debug/net6.0/CleanArchAPI.genruntimeconfig.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/obj/Debug/net6.0/ref/CleanArchAPI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Humanizer.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/CleanArchAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\CleanArchAPI.staticwebassets.runtime.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\CleanArchAPI.exe
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\CleanArchAPI.deps.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\CleanArchAPI.runtimeconfig.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\CleanArchAPI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\CleanArchAPI.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Grpc.AspNetCore.Server.Reflection.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Grpc.Reflection.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\MediatR.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\CleanArch_Application.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\CleanArch_Domain.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\CleanArch_Infrastructure.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\CleanArch_Infrastructure.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\CleanArch_Application.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\bin\Debug\net6.0\CleanArch_Domain.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\obj\Debug\net6.0\CleanArchAPI.csproj.AssemblyReference.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\obj\Debug\net6.0\CleanArchAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\obj\Debug\net6.0\CleanArchAPI.AssemblyInfoInputs.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\obj\Debug\net6.0\CleanArchAPI.AssemblyInfo.cs
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\obj\Debug\net6.0\CleanArchAPI.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\obj\Debug\net6.0\CleanArchAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\obj\Debug\net6.0\CleanArchAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\obj\Debug\net6.0\scopedcss\bundle\CleanArchAPI.styles.css
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\obj\Debug\net6.0\CleanArchAPI.csproj.CopyComplete
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\obj\Debug\net6.0\CleanArchAPI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\obj\Debug\net6.0\refint\CleanArchAPI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\obj\Debug\net6.0\CleanArchAPI.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\obj\Debug\net6.0\CleanArchAPI.genruntimeconfig.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\CleanArchAPI\obj\Debug\net6.0\ref\CleanArchAPI.dll

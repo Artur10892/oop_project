@@ -1,0 +1,61 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="11.0.1" />
+      <PackageReference Include="FluentValidation.AspNetCore" Version="11.1.0" />
+      <PackageReference Include="Google.Protobuf" Version="3.21.11" />
+      <PackageReference Include="Grpc.AspNetCore.Server" Version="2.50.0" />
+      <PackageReference Include="Grpc.AspNetCore.Server.Reflection" Version="2.50.0" />
+      <PackageReference Include="Grpc.Core" Version="2.46.5" />
+      <PackageReference Include="Grpc.Net.Client" Version="2.50.0" />
+      <PackageReference Include="Grpc.Net.ClientFactory" Version="2.50.0" />
+      <PackageReference Include="Grpc.Tools" Version="2.51.0">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\AdoDapperDAL\AdoDapperDAL.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="DTO\Responses\RegionResponse.cs" />
+      <Compile Remove="DTO\Responses\SupplierResponse.cs" />
+      <Compile Remove="DTO\Responses\ProductResponse.cs" />
+      <Compile Remove="DTO\Responses\LocationResponse.cs" />
+      <Compile Remove="DTO\Responses\CategoryResponse.cs" />
+      <Compile Remove="Services\Concrete\ImageService.cs" />
+      <Compile Remove="Services\Abstract\IProductService.cs" />
+      <Compile Remove="Services\Abstract\IRegionService.cs" />
+      <Compile Remove="Services\Abstract\ICategoryService.cs" />
+      <Compile Remove="Services\Abstract\IImageService.cs" />
+      <Compile Remove="DTO\Requests\WarehouseProductRequest.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Protobuf Include="Protos\products.proto">
+            <GrpcServices>Client</GrpcServices>
+            <Access>Public</Access>
+            <ProtoCompile>True</ProtoCompile>
+            <CompileOutputs>True</CompileOutputs>
+            <OutputDir>obj/Debug/net6.0/</OutputDir>
+            <Generator>MSBuild:Compile</Generator>
+        </Protobuf>
+        <Protobuf Include="Protos\warehouses.proto">
+          <GrpcServices>Server</GrpcServices>
+          <Access>Public</Access>
+          <ProtoCompile>True</ProtoCompile>
+          <CompileOutputs>True</CompileOutputs>
+          <OutputDir>obj/Debug/net6.0/</OutputDir>
+          <Generator>MSBuild:Compile</Generator>
+        </Protobuf>
+    </ItemGroup>
+
+</Project>

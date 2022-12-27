@@ -1,0 +1,54 @@
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/bin/Debug/net6.0/appsettings.Development.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/bin/Debug/net6.0/appsettings.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/bin/Debug/net6.0/BlazorApp.staticwebassets.runtime.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/bin/Debug/net6.0/BlazorApp
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/bin/Debug/net6.0/BlazorApp.deps.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/bin/Debug/net6.0/BlazorApp.runtimeconfig.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/bin/Debug/net6.0/BlazorApp.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/bin/Debug/net6.0/BlazorApp.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/BlazorApp.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/BlazorApp.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/BlazorApp.AssemblyInfo.cs
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/BlazorApp.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/BlazorApp.RazorAssemblyInfo.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/BlazorApp.RazorAssemblyInfo.cs
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/scopedcss/bundle/BlazorApp.styles.css
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/BlazorApp.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/refint/BlazorApp.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/BlazorApp.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/BlazorApp.genruntimeconfig.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/BlazorApp/obj/Debug/net6.0/ref/BlazorApp.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/bin/Debug/net6.0/appsettings.Development.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/bin/Debug/net6.0/appsettings.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/bin/Debug/net6.0/BlazorApp.staticwebassets.runtime.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/bin/Debug/net6.0/BlazorApp
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/bin/Debug/net6.0/BlazorApp.deps.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/bin/Debug/net6.0/BlazorApp.runtimeconfig.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/bin/Debug/net6.0/BlazorApp.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/bin/Debug/net6.0/BlazorApp.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/BlazorApp.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/BlazorApp.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/BlazorApp.AssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/BlazorApp.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/BlazorApp.RazorAssemblyInfo.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/BlazorApp.RazorAssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/scopedcss/bundle/BlazorApp.styles.css
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/BlazorApp.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/refint/BlazorApp.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/BlazorApp.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/BlazorApp.genruntimeconfig.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/BlazorApp/obj/Debug/net6.0/ref/BlazorApp.dll

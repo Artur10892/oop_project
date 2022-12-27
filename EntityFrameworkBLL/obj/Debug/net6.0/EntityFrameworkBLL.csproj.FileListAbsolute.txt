@@ -1,0 +1,64 @@
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkBLL/bin/Debug/net6.0/EntityFrameworkBLL.deps.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkBLL/bin/Debug/net6.0/EntityFrameworkBLL.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkBLL/bin/Debug/net6.0/EntityFrameworkBLL.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkBLL/bin/Debug/net6.0/EntityFrameworkDAL.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkBLL/bin/Debug/net6.0/EntityFrameworkDAL.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.AssemblyInfo.cs
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.csproj.CopyComplete
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/refint/EntityFrameworkBLL.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/ref/EntityFrameworkBLL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkBLL/bin/Debug/net6.0/EntityFrameworkBLL.deps.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkBLL/bin/Debug/net6.0/EntityFrameworkBLL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkBLL/bin/Debug/net6.0/EntityFrameworkBLL.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkBLL/bin/Debug/net6.0/EntityFrameworkDAL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkBLL/bin/Debug/net6.0/EntityFrameworkDAL.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.AssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.csproj.CopyComplete
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/refint/EntityFrameworkBLL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkBLL/obj/Debug/net6.0/ref/EntityFrameworkBLL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkBLL/bin/Debug/net6.0/EntityFrameworkBLL.deps.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkBLL/bin/Debug/net6.0/EntityFrameworkBLL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkBLL/bin/Debug/net6.0/EntityFrameworkBLL.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkBLL/bin/Debug/net6.0/EntityFrameworkDAL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkBLL/bin/Debug/net6.0/EntityFrameworkDAL.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.AssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.csproj.CopyComplete
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkBLL/obj/Debug/net6.0/refint/EntityFrameworkBLL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkBLL/obj/Debug/net6.0/EntityFrameworkBLL.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkBLL/obj/Debug/net6.0/ref/EntityFrameworkBLL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkBLL/bin/Debug/net6.0/Common.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkBLL/bin/Debug/net6.0/Common.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkBLL\bin\Debug\net6.0\EntityFrameworkBLL.deps.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkBLL\bin\Debug\net6.0\EntityFrameworkBLL.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkBLL\bin\Debug\net6.0\EntityFrameworkBLL.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkBLL\bin\Debug\net6.0\Common.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkBLL\bin\Debug\net6.0\EntityFrameworkDAL.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkBLL\bin\Debug\net6.0\Common.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkBLL\bin\Debug\net6.0\EntityFrameworkDAL.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkBLL\obj\Debug\net6.0\EntityFrameworkBLL.csproj.AssemblyReference.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkBLL\obj\Debug\net6.0\EntityFrameworkBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkBLL\obj\Debug\net6.0\EntityFrameworkBLL.AssemblyInfoInputs.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkBLL\obj\Debug\net6.0\EntityFrameworkBLL.AssemblyInfo.cs
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkBLL\obj\Debug\net6.0\EntityFrameworkBLL.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkBLL\obj\Debug\net6.0\EntityFrameworkBLL.csproj.CopyComplete
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkBLL\obj\Debug\net6.0\EntityFrameworkBLL.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkBLL\obj\Debug\net6.0\refint\EntityFrameworkBLL.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkBLL\obj\Debug\net6.0\EntityFrameworkBLL.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkBLL\obj\Debug\net6.0\ref\EntityFrameworkBLL.dll

@@ -1,0 +1,54 @@
+syntax = "proto3";
+
+option csharp_namespace = "EntityFrameworkBLL.Protos";
+
+service Warehouses {
+  rpc GetAll (GetAllWarehousesRequest) returns (WarehousesResponse);
+  rpc GetById (GetWarehouseByIdRequest) returns (WarehouseResponse);
+  rpc GetByProductAndWarehouseId (GetByProductAndWarehouseIdRequest) returns (WarehouseProductResponse);
+  rpc UpdateWarehouseProducts (UpdateWarehouseProductsRequest) returns (UpdateWarehouseProductsResponse);
+}
+
+message GetAllWarehousesRequest { }
+
+message GetWarehouseByIdRequest {
+  int32 id = 1;
+}
+
+message WarehouseResponse {
+  int32 Id = 1;
+  int32 LocationId = 2;
+  string Name = 3;
+}
+
+message WarehousesResponse {
+  repeated WarehouseResponse data = 1;
+}
+
+message GetByProductAndWarehouseIdRequest {
+  int32 id = 1;
+  int32 productId = 2;
+  int32 warehouseId = 3;
+}
+
+message WarehouseProductResponse {
+  int32 Id = 1;
+  int32 ProductId = 2;
+  int32 WarehouseId = 3;
+  int32 Quantity = 4;
+}
+
+message UpdateWarehouseProductRequest {
+  int32 Id = 1;
+  int32 ProductId = 2;
+  int32 WarehouseId = 3;
+  int32 Quantity = 4;
+}
+
+message UpdateWarehouseProductsRequest {
+  repeated UpdateWarehouseProductRequest data = 1;
+}
+
+message UpdateWarehouseProductsResponse {
+  bool success = 1;
+}

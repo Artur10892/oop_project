@@ -1,0 +1,48 @@
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperDAL/bin/Debug/net6.0/AdoDapperDAL.deps.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperDAL/bin/Debug/net6.0/AdoDapperDAL.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperDAL/bin/Debug/net6.0/AdoDapperDAL.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.AssemblyInfo.cs
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperDAL/obj/Debug/net6.0/refint/AdoDapperDAL.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/AdoDapperDAL/obj/Debug/net6.0/ref/AdoDapperDAL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperDAL/bin/Debug/net6.0/AdoDapperDAL.deps.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperDAL/bin/Debug/net6.0/AdoDapperDAL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperDAL/bin/Debug/net6.0/AdoDapperDAL.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.AssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperDAL/obj/Debug/net6.0/refint/AdoDapperDAL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/AdoDapperDAL/obj/Debug/net6.0/ref/AdoDapperDAL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperDAL/bin/Debug/net6.0/AdoDapperDAL.deps.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperDAL/bin/Debug/net6.0/AdoDapperDAL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperDAL/bin/Debug/net6.0/AdoDapperDAL.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.AssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperDAL/obj/Debug/net6.0/refint/AdoDapperDAL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperDAL/obj/Debug/net6.0/AdoDapperDAL.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/AdoDapperDAL/obj/Debug/net6.0/ref/AdoDapperDAL.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperDAL\bin\Debug\net6.0\AdoDapperDAL.deps.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperDAL\bin\Debug\net6.0\AdoDapperDAL.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperDAL\bin\Debug\net6.0\AdoDapperDAL.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperDAL\obj\Debug\net6.0\AdoDapperDAL.csproj.AssemblyReference.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperDAL\obj\Debug\net6.0\AdoDapperDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperDAL\obj\Debug\net6.0\AdoDapperDAL.AssemblyInfoInputs.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperDAL\obj\Debug\net6.0\AdoDapperDAL.AssemblyInfo.cs
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperDAL\obj\Debug\net6.0\AdoDapperDAL.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperDAL\obj\Debug\net6.0\AdoDapperDAL.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperDAL\obj\Debug\net6.0\refint\AdoDapperDAL.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperDAL\obj\Debug\net6.0\AdoDapperDAL.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\AdoDapperDAL\obj\Debug\net6.0\ref\AdoDapperDAL.dll

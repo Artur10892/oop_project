@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "UbEEI/gK+gO7VxNC70fT+2TDmRjj04KPbdf/3uuz6ac=",
+  "Source": "EntityFrameworkAPI",
+  "BasePath": "_content/EntityFrameworkAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EntityFrameworkAPI\\wwwroot",
+      "Source": "EntityFrameworkAPI",
+      "ContentRoot": "C:\\Users\\TestUser\\Desktop\\Guzul OOP project old\\.NET Projects\\EntityFrameworkAPI\\wwwroot\\",
+      "BasePath": "_content/EntityFrameworkAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\TestUser\\Desktop\\Guzul OOP project old\\.NET Projects\\EntityFrameworkAPI\\wwwroot\\Public\\Images\\Avatars\\202206291538486331.jpeg",
+      "SourceId": "EntityFrameworkAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TestUser\\Desktop\\Guzul OOP project old\\.NET Projects\\EntityFrameworkAPI\\wwwroot\\",
+      "BasePath": "_content/EntityFrameworkAPI",
+      "RelativePath": "Public/Images/Avatars/202206291538486331.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Public\\Images\\Avatars\\202206291538486331.jpeg"
+    }
+  ]
+}

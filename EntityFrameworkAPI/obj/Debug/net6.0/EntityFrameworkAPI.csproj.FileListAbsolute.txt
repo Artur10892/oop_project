@@ -1,0 +1,356 @@
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/appsettings.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI.deps.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI.runtimeconfig.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/AutoMapper.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkBLL.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkDAL.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkBLL.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkDAL.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.AssemblyInfo.cs
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/scopedcss/bundle/EntityFrameworkAPI.styles.css
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.csproj.CopyComplete
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/refint/EntityFrameworkAPI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.pdb
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.genruntimeconfig.cache
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/ref/EntityFrameworkAPI.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/deniskharitesku/Dropbox/Mac/Documents/OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI.staticwebassets.runtime.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/appsettings.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI.staticwebassets.runtime.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI.deps.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI.runtimeconfig.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/AutoMapper.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkBLL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkDAL.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkBLL.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkDAL.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.AssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/scopedcss/bundle/EntityFrameworkAPI.styles.css
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.csproj.CopyComplete
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/refint/EntityFrameworkAPI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.pdb
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.genruntimeconfig.cache
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/obj/Debug/net6.0/ref/EntityFrameworkAPI.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Humanizer.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.CodeDom.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.Text.Json.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Azure.Core.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Azure.Identity.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/deniskharitesku/Documents/Guzul_OPP_Project/EntityFrameworkAPI/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/appsettings.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI.staticwebassets.runtime.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI.deps.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI.runtimeconfig.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkAPI.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/AutoMapper.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Humanizer.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkBLL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkDAL.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkBLL.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/EntityFrameworkDAL.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.csproj.AssemblyReference.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.AssemblyInfoInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.AssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.csproj.CoreCompileInputs.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/obj/Debug/net6.0/scopedcss/bundle/EntityFrameworkAPI.styles.css
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.csproj.CopyComplete
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/obj/Debug/net6.0/refint/EntityFrameworkAPI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.pdb
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/obj/Debug/net6.0/EntityFrameworkAPI.genruntimeconfig.cache
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/obj/Debug/net6.0/ref/EntityFrameworkAPI.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Grpc.Core.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Grpc.Core.Api.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Grpc.Net.Client.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Grpc.Net.ClientFactory.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Grpc.Net.Common.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/linux-arm64/native/libgrpc_csharp_ext.arm64.so
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/linux-x64/native/libgrpc_csharp_ext.x64.so
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/osx-x64/native/libgrpc_csharp_ext.x64.dylib
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win-x64/native/grpc_csharp_ext.x64.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/runtimes/win-x86/native/grpc_csharp_ext.x86.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/MassTransit.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/MassTransit.Abstractions.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/MassTransit.RabbitMqTransport.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/System.Text.Json.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Common.dll
+/Users/deniskharitesku/Documents/Guzul OOP project/ .NET Projects/EntityFrameworkAPI/bin/Debug/net6.0/Common.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\EntityFrameworkAPI.staticwebassets.runtime.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\EntityFrameworkAPI.exe
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\EntityFrameworkAPI.deps.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\EntityFrameworkAPI.runtimeconfig.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\EntityFrameworkAPI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\EntityFrameworkAPI.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Grpc.Core.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\MassTransit.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\MassTransit.Abstractions.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Common.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\EntityFrameworkBLL.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\EntityFrameworkDAL.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\EntityFrameworkBLL.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\Common.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\bin\Debug\net6.0\EntityFrameworkDAL.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\obj\Debug\net6.0\EntityFrameworkAPI.csproj.AssemblyReference.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\obj\Debug\net6.0\EntityFrameworkAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\obj\Debug\net6.0\EntityFrameworkAPI.AssemblyInfoInputs.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\obj\Debug\net6.0\EntityFrameworkAPI.AssemblyInfo.cs
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\obj\Debug\net6.0\EntityFrameworkAPI.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\obj\Debug\net6.0\EntityFrameworkAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\obj\Debug\net6.0\EntityFrameworkAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\obj\Debug\net6.0\scopedcss\bundle\EntityFrameworkAPI.styles.css
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\obj\Debug\net6.0\EntityFrameworkAPI.csproj.CopyComplete
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\obj\Debug\net6.0\EntityFrameworkAPI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\obj\Debug\net6.0\refint\EntityFrameworkAPI.dll
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\obj\Debug\net6.0\EntityFrameworkAPI.pdb
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\obj\Debug\net6.0\EntityFrameworkAPI.genruntimeconfig.cache
+C:\Users\TestUser\Desktop\Guzul OOP project old\.NET Projects\EntityFrameworkAPI\obj\Debug\net6.0\ref\EntityFrameworkAPI.dll
